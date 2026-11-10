@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Rules for an AI agent working in my repositories. Short on purpose.
+Rules to hand an AI agent before it edits a repo. Copy this file in and it stops guessing. Short on purpose.
 
 ## Stack
 
